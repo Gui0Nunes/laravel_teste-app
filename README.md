@@ -71,5 +71,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 .@ -> exemplo desenvolvido no projeto <br><br>
 
 # Como criar uma controller no Laravel
-$ php artisan make:controller nome_da_controller
-@ php artisan make:controller PrincipalController
+$ php artisan make:controller nome_da_controller <br>
+@ php artisan make:controller PrincipalController <br>
