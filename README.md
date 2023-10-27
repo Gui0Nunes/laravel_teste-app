@@ -66,7 +66,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 # LEGENDA DOS SÍMBOLOS 
-#: Descrição
+#: Descrição <br>
 $: Código de exemplo genérico <br>
 @: Código de exemplo real <br><br>
 
