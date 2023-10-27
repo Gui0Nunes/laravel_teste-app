@@ -63,13 +63,13 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+# DETALHAMENTO DO PROJETO 
 
-
-# LEGENDA DOS SÍMBOLOS 
+# LEGENDA DOS SÍMBOLOS  
 #: Descrição <br>
-$: Código de exemplo genérico <br>
-@: Código de exemplo real <br><br>
+.$: Código de exemplo genérico <br>
+.@: Código de exemplo real <br><br>
 
-# Como criar uma controller no Laravel
-$ php artisan make:controller nome_da_controller <br>
-@ php artisan make:controller PrincipalController <br>
+# COMO CRIAR UMA CONTROLLER NO LARAVEL  
+.$ php artisan make:controller nome_da_controller <br>
+.@ php artisan make:controller PrincipalController <br>
